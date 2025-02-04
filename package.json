@@ -1,0 +1,26 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "blog personale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorenzo-Ruben-Rampa/express-blog-intro.git"
+  },
+  "keywords": [
+    "start",
+    "watch"
+  ],
+  "author": "Lorenzo Rampa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorenzo-Ruben-Rampa/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/Lorenzo-Ruben-Rampa/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

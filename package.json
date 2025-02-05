@@ -13,8 +13,10 @@
     "url": "git+https://github.com/Lorenzo-Ruben-Rampa/express-blog-intro.git"
   },
   "keywords": [
-    "start",
-    "watch"
+    "titolo",
+    "contenuto",
+    "immagine",
+    "tag"
   ],
   "author": "Lorenzo Rampa",
   "license": "ISC",
